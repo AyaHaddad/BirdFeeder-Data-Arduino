@@ -4,8 +4,8 @@ Bonjour et bienvenue sur notre projet Bird-Feeder ! Il consiste en la création 
 
 Vous vous trouvez ici dans la partie IOT de notre projet ! Vous y trouverez notre code arduino de notre Cabane à oiseaux ainsi que le script python, qui nous permet de récupérer les données afin de les placer dans les tables de notre BDD.
 
-- **Partie Front :** _alias_ [Front](https://github.com/Mathy4502/BirdFeeder-front)
-- **Partie Back :** _alias_ [Back](https://github.com/Mathy4502/BirdFeeder-back)
+- **Partie Front** _alias_ [Front](https://github.com/Mathy4502/BirdFeeder-front)
+- **Partie Back** _alias_ [Back](https://github.com/Mathy4502/BirdFeeder-back)
 
 ## Pré-requis / Installation
 
